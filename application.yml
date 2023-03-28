@@ -7,4 +7,4 @@ management:
 
 greeting-service:
   greeting: "Hello"
-  default-value: "Será?"
+  default-value: "World"
